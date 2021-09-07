@@ -1,0 +1,13 @@
+{
+  "params": {
+    "uri": "mysql://root:zomi3107@localhost/markets",
+    "websitename": "Markets & stocks ",
+    "tagline": "Strategic Knowledge of markets",
+    "gmail-user": "Nishadansh31@gmail.com",
+    "gmail-password": "v1385209@",
+    "admin-username": "Nishadansh47",
+    "admin-pass": "zomi3107",
+    "upload_location": "//home//nishad47//PycharmProjects//pythonProject//flask//static//assets//img"
+
+  }
+}
