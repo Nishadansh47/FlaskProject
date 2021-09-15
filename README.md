@@ -1,2 +1,1 @@
-# FlaskProject
-This is a blog-site project by Flask
+This is a Blog-site project developed using Flask and jinja templating.I have build frontend using HTML,CSS and JS and Backend using Flask and JSON,also made a authentication page for the admin to login to the admin Dashboard where admin can add/edit/delete post directly from there which is integrated with the database.
